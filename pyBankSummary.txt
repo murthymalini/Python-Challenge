@@ -1,7 +1,0 @@
-Financial Analysis
---------------------------------------------------
-The total number of months is:  86
-The total profit/loss is $38,382,578.00
-The average monthly profit/loss is: $-2,315.12
-Greatest Increase in Profits: Feb-2012 $1,926,159.00
-Greatest Decrease in Profits: Sep-2013 $-2,196,167.00
